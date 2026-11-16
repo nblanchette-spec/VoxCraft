@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix VoxCraft AI Studio - Natural Voice Over Generator",
+  "description": "Professional AI voice over generator with custom character pitch, speed, emotional tone shaping, multilingual speech synthesis, real-time waveform preview, and high-quality WAV/MP3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
